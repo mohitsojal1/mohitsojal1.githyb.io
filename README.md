@@ -14,8 +14,8 @@
     
 <hr>
 <main>
-<h2><u>Eductaion</u></h2>
-<p>
+<h2><u>Education</u></h2>
+</p>
 <ul>
     <li>SSC=88.60</li>
     <li>HSC=81.00</li>
